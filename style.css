@@ -222,7 +222,7 @@ a {
     flex-direction: row;
     justify-content: space-around;
     box-sizing: content-box;
-    overflow-x: auto;
+    overflow-x: scroll;
     
 }
 
@@ -244,7 +244,7 @@ a {
     background-color: black;
     color:white;
     /* transition-duration: 0.3s; */
-    
+
     cursor: pointer;
 }
 .contactus {
